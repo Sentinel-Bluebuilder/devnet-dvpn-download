@@ -7,7 +7,6 @@ What each feature does and where to find it in the app. [Back to downloads](READ
 - [Split tunnelling](#split-tunnelling)
 - [AI agent mode](#ai-agent-mode)
 - [Peer-to-peer, no accounts](#peer-to-peer-no-accounts)
-- [Anti-censorship protocols](#anti-censorship-protocols)
 - [Leak protection](#leak-protection)
 - [Pay per GB or per hour](#pay-per-gb-or-per-hour)
 - [Claim refunds](#claim-refunds)
