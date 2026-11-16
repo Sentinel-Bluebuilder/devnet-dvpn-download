@@ -26,8 +26,7 @@ Each release page has a `SHA256SUMS` file to check your download.
 - **Split tunnelling:** you choose which apps use the VPN.
 - **AI agent mode:** an AI can connect and disconnect on its own.
 - **Peer-to-peer:** no accounts, no company servers.
-- **Anti-censorship protocols:** V2Ray, Xray, Hysteria2, AmneziaWG.
-- **WireGuard and OpenVPN:** the standard fast protocols.
+- **6 protocols:** WireGuard, OpenVPN, V2Ray, Xray, Hysteria2, AmneziaWG.
 - **Leak protection:** DNS and WebRTC stay inside the tunnel.
 - **Pay as you go:** per GB or per hour, never above the price shown.
 - **Claim refunds:** unused deposit comes back to your wallet.
