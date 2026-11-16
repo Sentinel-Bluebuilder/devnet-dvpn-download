@@ -55,21 +55,26 @@ Each release page has a `SHA256SUMS` file to check your download.
 
 ## Features
 
-- **Kill switch:** blocks all internet if the VPN drops.
-- **Split tunnelling:** you choose which apps use the VPN.
-- **AI agent mode:** an AI can connect and disconnect on its own.
-- **Peer-to-peer:** no accounts, no company servers.
-- **6 protocols:** WireGuard, OpenVPN, V2Ray, Xray, Hysteria2, AmneziaWG.
-- **Leak protection:** DNS and WebRTC stay inside the tunnel.
-- **Pay as you go:** per GB or per hour, never above the price shown.
-- **Claim refunds:** unused deposit comes back to your wallet.
-- **One-click connect:** fastest server or your chosen country.
-- **Node test:** check a server's speed before you pay.
-- **Command line:** every feature as a scriptable command.
-- **15 languages:** switch live from the bottom-left menu.
-- **Built-in wallet:** Solana wallet with one-click test tokens.
-- **Light and dark:** or follow your system.
-- **Activity history:** every session, exportable as CSV.
+Each feature links to how it works.
+
+- [6-protocol VPN](FEATURES.md#6-protocol-vpn)
+- [Kill switch](FEATURES.md#kill-switch)
+- [Split tunnelling](FEATURES.md#split-tunnelling)
+- [AI agent mode](FEATURES.md#ai-agent-mode)
+- [Peer-to-peer, no accounts](FEATURES.md#peer-to-peer-no-accounts)
+- [Anti-censorship protocols](FEATURES.md#anti-censorship-protocols)
+- [DNS and WebRTC leak protection](FEATURES.md#leak-protection)
+- [Pay per GB or per hour](FEATURES.md#pay-per-gb-or-per-hour)
+- [Claim refunds](FEATURES.md#claim-refunds)
+- [One-click connect](FEATURES.md#one-click-connect)
+- [Node speed test](FEATURES.md#node-test)
+- [Full command line](FEATURES.md#command-line)
+- [15 languages](FEATURES.md#15-languages)
+- [Built-in Solana wallet](FEATURES.md#built-in-solana-wallet)
+- [One-click test tokens](FEATURES.md#one-click-test-tokens)
+- [Light and dark mode](FEATURES.md#light-and-dark-mode)
+- [Session history with CSV export](FEATURES.md#activity-history)
+- [Windows, macOS, Linux, Android](FEATURES.md#windows-macos-linux-android)
 
 ## Languages
 
