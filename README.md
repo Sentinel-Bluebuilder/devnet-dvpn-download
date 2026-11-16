@@ -6,17 +6,48 @@ A peer-to-peer VPN on Solana devnet. You pay the server operator directly; there
 
 **Current version: 0.3.0 rc.4** · 15 languages + English
 
+## Repositories
+
+Each system has its own repository with its releases, release notes and checksums.
+
+| System | Repository | All releases |
+|---|---|---|
+| Windows | [sentinel-solana-dvpn-windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) | [Releases](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows/releases) |
+| macOS | [sentinel-solana-dvpn-macos](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) | [Releases](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos/releases) |
+| Linux | [sentinel-solana-dvpn-linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux) | [Releases](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases) |
+| Android | [sentinel-solana-dvpn-android](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android) | [Releases](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android/releases) |
+
 ## Download
 
-| System | Download | Release page |
+### Windows
+
+Windows 10 or 11, 64-bit.
+
+- [**Download the installer (.exe)**](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows/releases/download/v0.3.0-rc4/Devnet-dVPN-Setup-0.3.0-rc.4-x64.exe)
+- [Release notes and checksums](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows/releases/tag/v0.3.0-rc4)
+
+### macOS
+
+Intel and Apple Silicon.
+
+- [**Download from the macOS releases**](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos/releases) (pick `arm64` for Apple Silicon, `x64` for Intel)
+
+### Linux
+
+| Distribution | x64 | ARM64 |
 |---|---|---|
-| **Windows** 10 / 11 (64-bit) | [Installer (.exe)](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows/releases/download/v0.3.0-rc4/Devnet-dVPN-Setup-0.3.0-rc.4-x64.exe) | [Windows releases](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows/releases) |
-| **macOS** (Intel and Apple Silicon) | on the release page | [macOS releases](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos/releases) |
-| **Linux** Ubuntu / Debian | [.deb x64](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/devnet-dvpn_0.3.0-rc.4_amd64.deb) · [.deb ARM64](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/devnet-dvpn_0.3.0-rc.4_arm64.deb) | [Linux releases](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases) |
-| **Linux** Fedora / RHEL | [.rpm x64](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/devnet-dvpn-0.3.0-rc.4.x86_64.rpm) · [.rpm ARM64](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/devnet-dvpn-0.3.0-rc.4.aarch64.rpm) | [Linux releases](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases) |
-| **Linux** any distribution | [AppImage x64](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/Devnet-dVPN-0.3.0-rc.4-x86_64.AppImage) · [AppImage ARM64](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/Devnet-dVPN-0.3.0-rc.4-arm64.AppImage) | [Linux releases](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases) |
-| **Linux** Arch | [.pkg.tar.zst x64](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/devnet-dvpn-0.3.0-rc.4-x64.pkg.tar.zst) · [ARM64](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/devnet-dvpn-0.3.0-rc.4-aarch64.pkg.tar.zst) | [Linux releases](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases) |
-| **Android** 8+ | on the release page | [Android releases](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android/releases) |
+| Ubuntu / Debian | [.deb](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/devnet-dvpn_0.3.0-rc.4_amd64.deb) | [.deb](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/devnet-dvpn_0.3.0-rc.4_arm64.deb) |
+| Fedora / RHEL | [.rpm](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/devnet-dvpn-0.3.0-rc.4.x86_64.rpm) | [.rpm](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/devnet-dvpn-0.3.0-rc.4.aarch64.rpm) |
+| Arch | [.pkg.tar.zst](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/devnet-dvpn-0.3.0-rc.4-x64.pkg.tar.zst) | [.pkg.tar.zst](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/devnet-dvpn-0.3.0-rc.4-aarch64.pkg.tar.zst) |
+| Any distribution | [AppImage](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/Devnet-dVPN-0.3.0-rc.4-x86_64.AppImage) | [AppImage](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/download/v0.3.0-rc4/Devnet-dVPN-0.3.0-rc.4-arm64.AppImage) |
+
+- [Release notes and checksums](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux/releases/tag/v0.3.0-rc4)
+
+### Android
+
+Android 8 or newer.
+
+- [**Download the APK from the Android releases**](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android/releases)
 
 Each release page has a `SHA256SUMS` file to check your download.
 
