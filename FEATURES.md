@@ -22,7 +22,7 @@ What each feature does and where to find it in the app. [Back to downloads](READ
 
 ## 6-protocol VPN
 
-Connects with WireGuard, OpenVPN, V2Ray, Xray, Hysteria2 or AmneziaWG, whichever the server offers. The server list shows each server's protocols, and you can filter by protocol.
+Connects with WireGuard, OpenVPN, V2Ray, Xray, Hysteria2 or AmneziaWG, whichever the server offers. The server list shows each server's protocols, and you can filter by protocol. V2Ray, Xray, Hysteria2 and AmneziaWG make VPN traffic hard to recognise and block, for networks where ordinary VPNs are blocked.
 
 ## Kill switch
 
@@ -39,10 +39,6 @@ An AI agent can run the VPN on its own with three commands: `agent up` connects,
 ## Peer-to-peer, no accounts
 
 There is no sign-up and no company server. The app finds servers on the Solana blockchain and pays the server operator directly from your wallet.
-
-## Anti-censorship protocols
-
-V2Ray, Xray, Hysteria2 and AmneziaWG make VPN traffic hard to recognise and block, for networks where ordinary VPNs are blocked.
 
 ## Leak protection
 
