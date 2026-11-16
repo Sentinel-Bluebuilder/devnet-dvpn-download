@@ -73,7 +73,7 @@ Each feature links to how it works and to the GitHub repository it comes from. F
 
 | Feature | GitHub repository |
 |---|---|
-| [6-protocol VPN](FEATURES.md#6-protocol-vpn) | [WireGuard](https://github.com/WireGuard/wireguard-go) · [OpenVPN](https://github.com/OpenVPN/openvpn) · [V2Ray](https://github.com/v2fly/v2ray-core) · [Xray](https://github.com/XTLS/Xray-core) · [Hysteria2](https://github.com/HyNetworks/hysteria) · [AmneziaWG](https://github.com/amnezia-vpn/amneziawg-go) |
+| [Six VPN protocols, censorship-resistant](FEATURES.md#six-vpn-protocols-censorship-resistant) | [WireGuard](https://github.com/WireGuard/wireguard-go) · [OpenVPN](https://github.com/OpenVPN/openvpn) · [V2Ray](https://github.com/v2fly/v2ray-core) · [Xray](https://github.com/XTLS/Xray-core) · [Hysteria2](https://github.com/HyNetworks/hysteria) · [AmneziaWG](https://github.com/amnezia-vpn/amneziawg-go) |
 | [Peer-to-peer, no accounts](FEATURES.md#peer-to-peer-no-accounts) | [sentinel-official/sentinel-solana](https://github.com/sentinel-official/sentinel-solana) |
 | [Pay per GB or per hour](FEATURES.md#pay-per-gb-or-per-hour) | [sentinel-official/sentinel-solana](https://github.com/sentinel-official/sentinel-solana) |
 | [Claim refunds](FEATURES.md#claim-refunds) | [sentinel-official/sentinel-solana](https://github.com/sentinel-official/sentinel-solana) |

@@ -2,7 +2,7 @@
 
 What each feature does and where to find it in the app. [Back to downloads](README.md)
 
-- [6-protocol VPN](#6-protocol-vpn)
+- [Six VPN protocols, censorship-resistant](#six-vpn-protocols-censorship-resistant)
 - [Kill switch](#kill-switch)
 - [Split tunnelling](#split-tunnelling)
 - [AI agent mode](#ai-agent-mode)
@@ -20,7 +20,7 @@ What each feature does and where to find it in the app. [Back to downloads](READ
 - [Activity history](#activity-history)
 - [Windows, macOS, Linux, Android](#windows-macos-linux-android)
 
-## 6-protocol VPN
+## Six VPN protocols, censorship-resistant
 
 Connects with WireGuard, OpenVPN, V2Ray, Xray, Hysteria2 or AmneziaWG, whichever the server offers. The server list shows each server's protocols, and you can filter by protocol. V2Ray, Xray, Hysteria2 and AmneziaWG make VPN traffic hard to recognise and block, for networks where ordinary VPNs are blocked.
 
