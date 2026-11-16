@@ -55,26 +55,28 @@ Each release page has a `SHA256SUMS` file to check your download.
 
 ## Features
 
-Each feature links to how it works.
+Each feature links to how it works and to the GitHub repository it comes from. Features built into the app itself link to the app's repositories: [Windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) · [macOS](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) · [Linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux) · [Android](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android).
 
-- [6-protocol VPN](FEATURES.md#6-protocol-vpn)
-- [Kill switch](FEATURES.md#kill-switch)
-- [Split tunnelling](FEATURES.md#split-tunnelling)
-- [AI agent mode](FEATURES.md#ai-agent-mode)
-- [Peer-to-peer, no accounts](FEATURES.md#peer-to-peer-no-accounts)
-- [Anti-censorship protocols](FEATURES.md#anti-censorship-protocols)
-- [DNS and WebRTC leak protection](FEATURES.md#leak-protection)
-- [Pay per GB or per hour](FEATURES.md#pay-per-gb-or-per-hour)
-- [Claim refunds](FEATURES.md#claim-refunds)
-- [One-click connect](FEATURES.md#one-click-connect)
-- [Node speed test](FEATURES.md#node-test)
-- [Full command line](FEATURES.md#command-line)
-- [15 languages](FEATURES.md#15-languages)
-- [Built-in Solana wallet](FEATURES.md#built-in-solana-wallet)
-- [One-click test tokens](FEATURES.md#one-click-test-tokens)
-- [Light and dark mode](FEATURES.md#light-and-dark-mode)
-- [Session history with CSV export](FEATURES.md#activity-history)
-- [Windows, macOS, Linux, Android](FEATURES.md#windows-macos-linux-android)
+| Feature | GitHub repository |
+|---|---|
+| [6-protocol VPN](FEATURES.md#6-protocol-vpn) | [WireGuard](https://github.com/WireGuard/wireguard-go) · [OpenVPN](https://github.com/OpenVPN/openvpn) · [V2Ray](https://github.com/v2fly/v2ray-core) · [Xray](https://github.com/XTLS/Xray-core) · [Hysteria2](https://github.com/HyNetworks/hysteria) · [AmneziaWG](https://github.com/amnezia-vpn/amneziawg-go) |
+| [Anti-censorship protocols](FEATURES.md#anti-censorship-protocols) | [V2Ray](https://github.com/v2fly/v2ray-core) · [Xray](https://github.com/XTLS/Xray-core) · [Hysteria2](https://github.com/HyNetworks/hysteria) · [AmneziaWG](https://github.com/amnezia-vpn/amneziawg-go) |
+| [Peer-to-peer, no accounts](FEATURES.md#peer-to-peer-no-accounts) | [sentinel-official/sentinel-solana](https://github.com/sentinel-official/sentinel-solana) |
+| [Pay per GB or per hour](FEATURES.md#pay-per-gb-or-per-hour) | [sentinel-official/sentinel-solana](https://github.com/sentinel-official/sentinel-solana) |
+| [Claim refunds](FEATURES.md#claim-refunds) | [sentinel-official/sentinel-solana](https://github.com/sentinel-official/sentinel-solana) |
+| [Node speed test](FEATURES.md#node-test) | [sentinel-official/sentinel-solana](https://github.com/sentinel-official/sentinel-solana) |
+| [Built-in Solana wallet](FEATURES.md#built-in-solana-wallet) | [Solana (Agave)](https://github.com/anza-xyz/agave) · [Solana web3.js](https://github.com/solana-foundation/solana-web3.js) |
+| [One-click test tokens](FEATURES.md#one-click-test-tokens) | [Solana (Agave)](https://github.com/anza-xyz/agave) |
+| [Kill switch](FEATURES.md#kill-switch) | the app ([Windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) · [macOS](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) · [Linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux) · [Android](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android)) |
+| [Split tunnelling](FEATURES.md#split-tunnelling) | the app ([Windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) · [macOS](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) · [Linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux) · [Android](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android)) |
+| [AI agent mode](FEATURES.md#ai-agent-mode) | the app ([Windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) · [macOS](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) · [Linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux)) |
+| [Full command line](FEATURES.md#command-line) | the app ([Windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) · [macOS](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) · [Linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux)) |
+| [DNS and WebRTC leak protection](FEATURES.md#leak-protection) | the app ([Windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) · [macOS](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) · [Linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux) · [Android](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android)) |
+| [One-click connect](FEATURES.md#one-click-connect) | the app ([Windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) · [macOS](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) · [Linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux) · [Android](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android)) |
+| [15 languages](FEATURES.md#15-languages) | the app ([Windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) · [macOS](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) · [Linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux) · [Android](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android)) |
+| [Light and dark mode](FEATURES.md#light-and-dark-mode) | the app ([Windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) · [macOS](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) · [Linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux) · [Android](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android)) |
+| [Session history with CSV export](FEATURES.md#activity-history) | the app ([Windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) · [macOS](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) · [Linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux) · [Android](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android)) |
+| [Windows, macOS, Linux, Android](FEATURES.md#windows-macos-linux-android) | [Windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) · [macOS](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) · [Linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux) · [Android](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android) |
 
 ## Languages
 
