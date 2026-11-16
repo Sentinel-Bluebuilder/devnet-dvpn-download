@@ -53,6 +53,20 @@ Android 8 or newer.
 
 Each release page has a `SHA256SUMS` file to check your download.
 
+## Built from components anyone can use
+
+Devnet dVPN is more than one app. Each of its features is a building block, made to be used in other people's apps too.
+
+Sentinel's goal is a library of components that are tried and tested end to end: connecting, paying, the kill switch, split tunnelling, leak protection, refunds, server testing, AI agent control, languages and the rest. Each one is proven in a real app on four systems before anyone else relies on it.
+
+The aim is that anyone can build their own VPN app by picking the features they want, the way you would pick parts from a catalogue, and get a working app end to end without rebuilding any of it from scratch:
+
+- **Pick the features.** A privacy browser might take connect, the kill switch and leak protection. An AI tool might take only the agent commands.
+- **Get them already tested.** Each component has been used and tested on Windows, macOS, Linux and Android in this app.
+- **Keep it peer-to-peer.** Every app built this way talks to the servers and the blockchain directly, with no company server in between and no API keys to request.
+
+This app is where those components are built and proven first. The table below shows each feature and the GitHub repository it comes from.
+
 ## Features
 
 Each feature links to how it works and to the GitHub repository it comes from. Features built into the app itself link to the app's repositories: [Windows](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-windows) · [macOS](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos) · [Linux](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-linux) · [Android](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android).
