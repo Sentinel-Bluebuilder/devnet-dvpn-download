@@ -1,6 +1,8 @@
-# Sentinel dVPN on Solana (devnet)
+# Devnet dVPN
 
-A peer-to-peer VPN on Solana devnet. You pay the server operator directly; there are no accounts and no company servers in between.
+**The peer-to-peer VPN on Solana devnet.** Downloads for Windows, macOS, Linux and Android.
+
+Devnet dVPN is a peer-to-peer VPN on Solana devnet. You pay the server operator directly; there are no accounts and no company servers in between.
 
 > **Pre-release for testing.** It runs on Solana **devnet** with test tokens that have no real value.
 
