@@ -32,7 +32,14 @@ Windows 10 or 11, 64-bit.
 
 Intel and Apple Silicon.
 
-- [**Download from the macOS releases**](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos/releases) (pick `arm64` for Apple Silicon, `x64` for Intel)
+| Mac | Disk image | Zip |
+|---|---|---|
+| Apple Silicon (M1 and newer) | [.dmg](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos/releases/download/v0.3.0-rc4/Devnet-dVPN-0.3.0-rc.4-arm64.dmg) | [.zip](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos/releases/download/v0.3.0-rc4/Devnet-dVPN-0.3.0-rc.4-arm64-mac.zip) |
+| Intel | [.dmg](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos/releases/download/v0.3.0-rc4/Devnet-dVPN-0.3.0-rc.4-x64.dmg) | [.zip](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos/releases/download/v0.3.0-rc4/Devnet-dVPN-0.3.0-rc.4-x64-mac.zip) |
+
+The first time, right-click the app and choose Open.
+
+- [Release notes and checksums](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-macos/releases/tag/v0.3.0-rc4)
 
 ### Linux
 
@@ -49,7 +56,8 @@ Intel and Apple Silicon.
 
 Android 8 or newer.
 
-- [**Download the APK from the Android releases**](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android/releases)
+- [**Download the APK**](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android/releases/download/v0.3.0-rc4/sentinel-dvpn-android-0.3.0-rc.4-release.apk) (allow installs from unknown sources)
+- [Release notes and checksums](https://github.com/Sentinel-Bluebuilder/sentinel-solana-dvpn-android/releases/tag/v0.3.0-rc4)
 
 Each release page has a `SHA256SUMS` file to check your download.
 
